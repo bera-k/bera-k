@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Bera,
-freshman CS student at Bilkent University. I'm currently learning Java, got some experience in C++
+freshman CS student at Bilkent University. I'm currently learning Java, got little experience in C++
 
 <!--
 **bera-k/bera-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
